@@ -1,7 +1,7 @@
 # Java_Programming
 
-College programming assignments and classwork.
+College Java programming assignments and classwork.
 
 ## Structure
-- Assignments: Assignment-wise programs
+- Assignments: Assignment-wise Java programs
 - Classwork: Day-wise practice programs
